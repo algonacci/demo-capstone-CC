@@ -1,0 +1,22 @@
+{
+    "list_penyakit": [
+        {
+            "id": 1,
+    "name_penyakit": "Jerawat Batu",
+    "penyebab": "Gen",
+    "obat": "Blablabla",
+    "klinik": [
+        {
+            "nama_klinik": "",
+            "alamat": "",
+            "nama_dokter": ""
+        },
+        {
+            "nama_klinik": "",
+            "alamat": "",
+            "nama_dokter": ""
+        }
+    ]
+        }
+    ]
+}
